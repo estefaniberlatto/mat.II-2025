@@ -11,6 +11,8 @@ header{
 #gatocachorro{
     width:171.16px;
     height:172px;
-    padding-left: 80%;
-    padding-right: 8%;
+    image-orientation:"download 1.png";
+    position: absolute; 
+    top: 0;  
+    left:1308.94; 
 }
